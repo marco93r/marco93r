@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Marco
 
-<!--
-**marco93r/marco93r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About me
+I'm currently employed as a Cloud Engineer, working mainly with Azure, but also working on CI/CD topics as well as working closely with Platform Engineering on OpenShift.
+Next to my job I am currently enrolled in the Master's degree Cloud Computing Engineering at University of Applied Sciences Burgenland.
 
-Here are some ideas to get you started:
+## 💻 Skills
+### Cloud Platforms
+- **AWS** ⭐⭐⭐
+- **Azure** ⭐⭐⭐⭐
+- **GCP** ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Infrastructure as Code
+- **Terraform/OpenTofu** ⭐⭐⭐⭐
+- **Ansible** ⭐⭐
+
+### Container & Orchestration
+- **Docker** ⭐⭐⭐
+- **Kubernetes** ⭐⭐
+- **OpenShift** ⭐⭐
+
+### CI/CD & Automation
+- **Azure DevOps** ⭐⭐⭐⭐
+- **GitHub Actions** ⭐
+
+### Scripting & Coding
+- **Python** ⭐⭐
+- **Bash/Shell** ⭐⭐⭐
+- **Java** ⭐⭐
+
+## 🚀 Current Projects
+- **[Platform Engineering Project](https://github.com/INENI-PT-GROUP-B)** – Building a Platform with Kubernetes
+
+## 🌱 Currently learning:
+- Kubernetes/OpenShift
+- GitOps
+- CI/CD
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco93r&show_icons=true&theme=radical)
+
+---
+*Last updated: 04/2026*
