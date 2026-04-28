@@ -1,8 +1,14 @@
 # Hi there 👋 I'm Marco
 
 ## 🎯 About me
-I'm currently employed as a Cloud Engineer, working mainly with Azure, but also working on CI/CD topics as well as working closely with Platform Engineering on OpenShift.
-Next to my job I am currently enrolled in the Master's degree Cloud Computing Engineering at University of Applied Sciences Burgenland.
+As a Cloud Engineer, I'm passionate about automating and optimizing cloud infrastructures. In my daily work, I combine:
+✨ Microsoft Azure – Cloud-native solutions
+✨ CI/CD Pipelines – Automated deployments
+✨ OpenShift & Platform Engineering – Container-based platforms
+
+🎓 Currently: Master's in Cloud Computing Engineering (UAS Burgenland)
+My goal is to solve complex cloud challenges through innovative DevOps strategies 
+and best practices.
 
 ## 💻 Skills
 ### Cloud Platforms
