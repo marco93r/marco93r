@@ -41,9 +41,10 @@ and best practices.
 - Kubernetes/OpenShift
 - GitOps
 - CI/CD
+- Python
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco93r&show_icons=true&theme=radical)
 
 ---
-*Last updated: 04/2026*
+*Last updated: 05/2026*
